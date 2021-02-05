@@ -12,5 +12,6 @@ public class Messager {
 	
 	public void bar() {
 		System.out.println("Bar");
+		System.out.println("Good night");
 	}
 }
