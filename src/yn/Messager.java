@@ -12,7 +12,10 @@ public class Messager {
 	}
 	
 	public void bar() {
+		int x = 8;
+		int y = 9;
 		System.out.println("Bar");
+		System.out.println(x + y);
 		System.out.println("Good night");
 	}
 }
