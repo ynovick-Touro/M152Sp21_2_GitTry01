@@ -9,6 +9,7 @@ public class Program {
 		
 		String s = Messager.getMessage();
 		System.out.println(s);
+		System.out.println("Done");
 	}
 
 }
