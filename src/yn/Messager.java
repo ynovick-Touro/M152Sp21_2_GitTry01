@@ -8,6 +8,7 @@ public class Messager {
 	
 	public void foo() {
 		System.out.println("Foo");
+		System.out.println("Bye");
 	}
 	
 	public void bar() {
