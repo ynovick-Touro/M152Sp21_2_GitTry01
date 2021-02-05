@@ -2,7 +2,7 @@ package yn;
 
 public class Messager {
 	public static String getMessage() {
-		int x;
+		int y;
 		return "Hello World";
 	}
 	
