@@ -12,9 +12,17 @@ public class Messager {
 	}
 	
 	public void bar() {
+		int x = 8;
+		int y = 9;
 		System.out.println("Bar");
+
 		double d = 12;
 		System.out.println(d);
 		System.out.println(d - 4);
+
+
+		System.out.println("Good night");
 	}
 }
+
+
