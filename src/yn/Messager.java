@@ -13,6 +13,8 @@ public class Messager {
 	
 	public void bar() {
 		System.out.println("Bar");
-		System.out.println("Good night");
+		double d = 12;
+		System.out.println(d);
+		System.out.println(d - 4);
 	}
 }
